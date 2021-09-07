@@ -1,1 +1,0 @@
-# jsExampleDay1
